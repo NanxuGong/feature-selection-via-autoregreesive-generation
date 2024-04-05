@@ -1,7 +1,7 @@
 # feature_selection_via_autoregreesive-generation
-This is the implement code of the paper "Neuro-Symbolic Embedding for Short and Effective Feature Selection via Autoregressive Generation"
+This is the implementation code of the paper "Neuro-Symbolic Embedding for Short and Effective Feature Selection via Autoregressive Generation"
 
-## Inplement
+## implementation
 ### Step 1: download the data: 
 ```
 follow the instruction in /data/readme.md
