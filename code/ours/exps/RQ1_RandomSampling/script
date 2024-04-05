@@ -1,0 +1,36 @@
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name spectf > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spectf.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name svmguide3 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/svmguide3.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name spam_base > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spam_base.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name ionosphere > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/ionosphere.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name megawatt1 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/megawatt1.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name uci_credit_card > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_618 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_618.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_589 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_589.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_616 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_616.r.log &
+
+
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_607 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_607.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_620 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_620.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_637 --gpu 5  > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_637.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_586 --gpu 5  > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_586.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name arrhythmia --gpu 6  > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/arrhythmia.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name uci_credit_card --gpu 6   > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.r.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name higgs --gpu 6   > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/higgs.r.log &
+
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name spectf
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name svmguide3
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name spam_base
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name ionosphere
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name megawatt1
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name uci_credit_card
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_618
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_589
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_616
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_607
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_620
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_637
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name german_credit
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name openml_586
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ1:RandomSampling/train_controller_random.py --task_name higgs

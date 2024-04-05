@@ -1,0 +1,38 @@
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name spectf > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spectf.0.log &
+
+
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name svmguide3 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/svmguide3.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name german_credit > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/german_credit.0.log &
+
+
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name spam_base --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spam_base.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name ionosphere  --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/ionosphere.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name megawatt1  --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/megawatt1.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name uci_credit_card  --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_618  --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_618.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_589 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_589.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_616 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_616.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_607 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_607.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_620 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_620.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_637 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_637.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_586 --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_586.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name uci_credit_card --gpu 5 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.0.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name higgs --gpu 6 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/higgs.0.log &
+
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name spectf
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name svmguide3
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name german_credit
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name spam_base
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name ionosphere
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name megawatt1
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name uci_credit_card
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_618
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_589
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_616
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_607
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_620
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_637
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name openml_586
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/exps/RQ2:NonInvariant/train_controller_noninv.py --task_name higgs

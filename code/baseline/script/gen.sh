@@ -1,0 +1,30 @@
+ssh://xiaomeng@10.0.87.17:22/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/gen_sh.py
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name spectf > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spectf.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name svmguide3 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/svmguide3.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name german_credit > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/german_credit.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name spam_base > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/spam_base.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name ionosphere > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/ionosphere.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name megawatt1 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/megawatt1.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name uci_credit_card > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_618 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_618.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_589 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_589.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_616 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_616.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_607 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_607.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_620 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_620.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_637 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_637.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name openml_586 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/openml_586.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name arrhythmia > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/arrhythmia.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name uci_credit_card > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/uci_credit_card.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name higgs > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/higgs.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name ap_omentum_ovary > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/ap_omentum_ovary.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name activity > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/activity.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name mice_protein > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/mice_protein.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name coil-20 > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/coil-20.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name isolet > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/isolet.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name minist > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/minist.log &
+nohup /home/xiaomeng/miniconda3/envs/shaow/bin/python -u /home/xiaomeng/jupyter_base/AutoFS/code/baseline/automatic_feature_selection_gen.py --name minist_fashion > /home/xiaomeng/jupyter_base/AutoFS/code/baseline/script/minist_fashion.log &
+
+Process finished with exit code 0
+
+
+# python code/baseline/automatic_feature_selection_gen.py --name minist

@@ -1,0 +1,30 @@
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name german_cridit
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name megawatt1
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name ionosphere
+
+
+'openml_618','openml_589', 'openml_616', 'openml_607', 'openml_620', 'openml_637'
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_618 --gpu 7
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_589
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_616
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_607
+
+
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_620
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 3 --encoder_layers 2 --task_name openml_637
+
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 2 --encoder_layers 1 --task_name spam_base
+
+/home/xiaomeng/miniconda3/envs/shaow/bin/python3 -u /home/xiaomeng/jupyter_base/AutoFS/code/ours/train_controller.py --mlp_layers 2 --encoder_layers 1 --task_name uci_credit_card

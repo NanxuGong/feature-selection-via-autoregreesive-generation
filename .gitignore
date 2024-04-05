@@ -1,0 +1,8 @@
+/data/*.hdf
+/old_code/Multi_Agent_Feature_Selection_GCN.ipynb
+.idea/
+/old_code
+/data/history
+*log
+*__pycache__
+/data
