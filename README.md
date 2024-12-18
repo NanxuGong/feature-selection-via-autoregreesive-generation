@@ -1,7 +1,7 @@
 # FSNS
 This is the implementation code of the paper "[ACM TIST] Neuro-Symbolic Embedding for Short and Effective Feature Selection via Autoregressive Generation"
 
-## implementation
+## Implementation
 ### Step 1: download the data: 
 ```
 follow the instruction in /data/readme.md
