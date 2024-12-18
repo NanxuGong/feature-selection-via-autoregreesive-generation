@@ -1,5 +1,5 @@
-# feature-selection-via-autoregreesive-generation
-This is the implementation code of the paper "Neuro-Symbolic Embedding for Short and Effective Feature Selection via Autoregressive Generation"
+# FSNS
+This is the implementation code of the paper "[ACM TIST] Neuro-Symbolic Embedding for Short and Effective Feature Selection via Autoregressive Generation"
 
 ## implementation
 ### Step 1: download the data: 
